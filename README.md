@@ -19,7 +19,4 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haegi-git&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true">
-</div>
+![haegi-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true&theme=transparent)
