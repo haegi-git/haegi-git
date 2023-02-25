@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
-	<br/><h4>🟠 a skill in learning 🟠</h4><br/>
+	<h4>🟠 a skill in learning 🟠</h4>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Nodejs&logoColor=white" />
 	<br/>🟢 The library you use 🟢<br/>
