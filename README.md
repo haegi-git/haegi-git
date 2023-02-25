@@ -8,20 +8,14 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
-	
 	🟠 a skill in learning 🟠
-	
-	
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Nodejs&logoColor=white" />
 	🟢 The library you use 🟢
-	
 	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /> (React Toolkit)
-	
 	🛠 Tools 🛠
-	
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Nodejs&logoColor=white" />
