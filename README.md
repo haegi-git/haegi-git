@@ -22,4 +22,4 @@
 <div align="center">
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true&theme=radical)
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b_haegi@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true&theme=radical)
