@@ -1,6 +1,6 @@
 
 <div align="center">
-	🟢 a skill to use 🟢<br/>
+	<h4>🟢 a skill to use 🟢</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
@@ -11,7 +11,7 @@
 	<h4>🟠 a skill in learning 🟠</h4>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Nodejs&logoColor=white" />
-	<br/>🟢 The library you use 🟢<br/>
+	<h4>🟢 The library you use 🟢</h4>
 	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /> (React Toolkit)
 	🛠 Tools 🛠
