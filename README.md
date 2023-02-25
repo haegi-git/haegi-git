@@ -20,8 +20,6 @@
 </div>
 
 <div>
-		![haegi-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haegi-git&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true">
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegi-git)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegi-git&show_icons=true&theme=radical)
