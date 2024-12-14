@@ -15,6 +15,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 
 ### ⚙️ Backend Development
 
@@ -35,6 +37,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
-
+프론트엔드를 기반으로 역량을 키우며, 풀스택 개발자로 성장하기 위해 꾸준히 노력하고 있습니다.<br/>
 아직까지 부족한 신입의 개발자이지만 더욱 더 성장하는 모습으로 채워나가겠습니다!
 </div>
