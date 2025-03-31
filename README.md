@@ -22,8 +22,7 @@
 **Tooling & ETC**  
 - Git, GitHub  
 - REST API, WebSocket  
-- Vite, Webpack  
-- Figma, Postman
+- Vite
 
 ---
 
