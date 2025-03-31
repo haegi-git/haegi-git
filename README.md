@@ -1,42 +1,40 @@
-<div align="center">
-<h1> 안녕하세요 개발자 배해기입니다. 👋</h1>
+## 배해기 / Bae Haegi
 
-<h2>저의 깃허브에 오신걸 환영합니다.</h2>
-
-### 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### ☁️ Cloud & Database
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### 🐳 DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+> Frontend에서 시작해, Fullstack으로 확장 중.  
+> 꾸준히 만들고, 깊게 이해하려는 개발자입니다.
 
 ---
-프론트엔드를 기반으로 역량을 키우며, 풀스택 개발자로 성장하기 위해 꾸준히 노력하고 있습니다.<br/>
-아직까지 부족한 신입의 개발자이지만 더욱 더 성장하는 모습으로 채워나가겠습니다!
-</div>
+
+### ⚙️ Tech Stack
+
+**Frontend**  
+- React, Next.js  
+- JavaScript, TypeScript  
+- Recoil,Redux-toolkit
+
+**Backend**  
+- Spring Boot  
+- Node.js (경험 있음)  
+
+**Database**  
+- MongoDB, MySQL  
+
+**Tooling & ETC**  
+- Git, GitHub  
+- REST API, WebSocket  
+- Vite, Webpack  
+- Figma, Postman
+
+---
+
+### 🎯 Focus
+
+- 프론트엔드에서 시작했지만, 서버와 인프라까지 직접 경험하며 **풀스택 개발자**를 목표로 하고 있습니다.  
+- 기능 구현에 그치지 않고, **코드의 구조와 유지보수성**을 함께 고민합니다.
+
+---
+
+### 🔗 Profile Site
+
+[http://116.34.191.73:3001/](http://116.34.191.73:3001/)
+
