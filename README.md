@@ -14,7 +14,7 @@
 
 **Backend**  
 - Spring Boot  
-- Node.js (경험 있음)  
+- Node.js (경험 있음, 중점으로 공부중)  
 
 **Database**  
 - MongoDB, MySQL  
